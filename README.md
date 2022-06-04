@@ -20,4 +20,4 @@
 
 [Linkedin Link](https://www.linkedin.com/in/sai-kiran-arishanapalli-1b7062190/)
 
-[Portfolio Link](https://the-awesome-kiranarishanpalli-gmail-com-site-60879.netlify.app/)
+[Portfolio Link](https://saikiran-arishanapalli-porfolio.netlify.app/)
