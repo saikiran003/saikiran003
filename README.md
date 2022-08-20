@@ -1,7 +1,7 @@
 ## Hi 👋,am Sai Kiran Arishanapalli from Hyderabad. 
 
 ## About Me
-######          Iam passionate about learning new things and solving problems.Currently learning MERN Stack.I am open to work in challenging environment.
+####          Iam passionate about learning new things and solving problems.Currently learning MERN Stack.I am open to work in challenging environment.
 - Conatct me at kiranarishanpalli@gmail.com
 ## Skill Set
 
