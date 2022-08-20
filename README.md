@@ -2,6 +2,7 @@
 
 ## About Me
 #####          I'm passionate about learning new things and solving problems.Currently learning MERN Stack.I am open to work in challenging environment.
+- Conatct me at kiranarishanpalli@gmail.com
 
 ## Skill Set
 
@@ -13,9 +14,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saikiran003)](https://github.com/anuraghazra/github-readme-stats)
 
-## Contact me
-
-- Conatct me at kiranarishanpalli@gmail.com
+## Social
 
 [Linkedin Link](https://www.linkedin.com/in/sai-kiran-arishanapalli-1b7062190/)
 
