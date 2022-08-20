@@ -3,7 +3,7 @@
 ## About Me
 - I am currrently learning MERN Stack.
 - I am open to work in challenging environment.
-- I spend my free time playing Cricket.watching Movies and Listening Music.
+- I spend my free time playing Cricket,watching Movies and Listening Music.
 - Motivation :Practice makes man perfect.
 
 ## Skill Set
